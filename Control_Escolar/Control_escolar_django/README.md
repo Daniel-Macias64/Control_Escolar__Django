@@ -1,7 +1,6 @@
 # Control escolar
 
-Sistema de informaciónde de un control de estudio que consta de 4 modulos: Personal, Cursos, Inscripcion y Pruebas, ademas de integrar una agenda escolar.
-
+Sistema de informaciónde de un control de estudio que consta de 4 modulos: Personal, Cursos, Inscripcion y Pruebas.
 Indicaciones  para levantar el sistema:
 
 
